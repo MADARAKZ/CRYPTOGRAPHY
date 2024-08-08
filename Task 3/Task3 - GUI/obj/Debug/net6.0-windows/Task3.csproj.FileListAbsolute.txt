@@ -1,0 +1,49 @@
+E:\MMH\Task3\bin\Debug\net6.0-windows\Task3.exe
+E:\MMH\Task3\bin\Debug\net6.0-windows\Task3.deps.json
+E:\MMH\Task3\bin\Debug\net6.0-windows\Task3.runtimeconfig.json
+E:\MMH\Task3\bin\Debug\net6.0-windows\Task3.dll
+E:\MMH\Task3\bin\Debug\net6.0-windows\Task3.pdb
+E:\MMH\Task3\obj\Debug\net6.0-windows\Task3.csproj.AssemblyReference.cache
+E:\MMH\Task3\obj\Debug\net6.0-windows\Task3.Form1.resources
+E:\MMH\Task3\obj\Debug\net6.0-windows\Task3.csproj.GenerateResource.cache
+E:\MMH\Task3\obj\Debug\net6.0-windows\Task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\MMH\Task3\obj\Debug\net6.0-windows\Task3.AssemblyInfoInputs.cache
+E:\MMH\Task3\obj\Debug\net6.0-windows\Task3.AssemblyInfo.cs
+E:\MMH\Task3\obj\Debug\net6.0-windows\Task3.csproj.CoreCompileInputs.cache
+E:\MMH\Task3\obj\Debug\net6.0-windows\Task3.dll
+E:\MMH\Task3\obj\Debug\net6.0-windows\refint\Task3.dll
+E:\MMH\Task3\obj\Debug\net6.0-windows\Task3.pdb
+E:\MMH\Task3\obj\Debug\net6.0-windows\Task3.genruntimeconfig.cache
+E:\MMH\Task3\obj\Debug\net6.0-windows\ref\Task3.dll
+E:\MMH\Task3 - GUI\bin\Debug\net6.0-windows\Task3.exe
+E:\MMH\Task3 - GUI\bin\Debug\net6.0-windows\Task3.deps.json
+E:\MMH\Task3 - GUI\bin\Debug\net6.0-windows\Task3.runtimeconfig.json
+E:\MMH\Task3 - GUI\bin\Debug\net6.0-windows\Task3.dll
+E:\MMH\Task3 - GUI\bin\Debug\net6.0-windows\Task3.pdb
+E:\MMH\Task3 - GUI\obj\Debug\net6.0-windows\Task3.Form1.resources
+E:\MMH\Task3 - GUI\obj\Debug\net6.0-windows\Task3.csproj.GenerateResource.cache
+E:\MMH\Task3 - GUI\obj\Debug\net6.0-windows\Task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\MMH\Task3 - GUI\obj\Debug\net6.0-windows\Task3.AssemblyInfoInputs.cache
+E:\MMH\Task3 - GUI\obj\Debug\net6.0-windows\Task3.AssemblyInfo.cs
+E:\MMH\Task3 - GUI\obj\Debug\net6.0-windows\Task3.csproj.CoreCompileInputs.cache
+E:\MMH\Task3 - GUI\obj\Debug\net6.0-windows\Task3.dll
+E:\MMH\Task3 - GUI\obj\Debug\net6.0-windows\refint\Task3.dll
+E:\MMH\Task3 - GUI\obj\Debug\net6.0-windows\Task3.pdb
+E:\MMH\Task3 - GUI\obj\Debug\net6.0-windows\Task3.genruntimeconfig.cache
+E:\MMH\Task3 - GUI\obj\Debug\net6.0-windows\ref\Task3.dll
+E:\MMH\22521444 -Lab1,2,3\Task 3\Task3 - GUI\bin\Debug\net6.0-windows\Task3.exe
+E:\MMH\22521444 -Lab1,2,3\Task 3\Task3 - GUI\bin\Debug\net6.0-windows\Task3.deps.json
+E:\MMH\22521444 -Lab1,2,3\Task 3\Task3 - GUI\bin\Debug\net6.0-windows\Task3.runtimeconfig.json
+E:\MMH\22521444 -Lab1,2,3\Task 3\Task3 - GUI\bin\Debug\net6.0-windows\Task3.dll
+E:\MMH\22521444 -Lab1,2,3\Task 3\Task3 - GUI\bin\Debug\net6.0-windows\Task3.pdb
+E:\MMH\22521444 -Lab1,2,3\Task 3\Task3 - GUI\obj\Debug\net6.0-windows\Task3.Form1.resources
+E:\MMH\22521444 -Lab1,2,3\Task 3\Task3 - GUI\obj\Debug\net6.0-windows\Task3.csproj.GenerateResource.cache
+E:\MMH\22521444 -Lab1,2,3\Task 3\Task3 - GUI\obj\Debug\net6.0-windows\Task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\MMH\22521444 -Lab1,2,3\Task 3\Task3 - GUI\obj\Debug\net6.0-windows\Task3.AssemblyInfoInputs.cache
+E:\MMH\22521444 -Lab1,2,3\Task 3\Task3 - GUI\obj\Debug\net6.0-windows\Task3.AssemblyInfo.cs
+E:\MMH\22521444 -Lab1,2,3\Task 3\Task3 - GUI\obj\Debug\net6.0-windows\Task3.csproj.CoreCompileInputs.cache
+E:\MMH\22521444 -Lab1,2,3\Task 3\Task3 - GUI\obj\Debug\net6.0-windows\Task3.dll
+E:\MMH\22521444 -Lab1,2,3\Task 3\Task3 - GUI\obj\Debug\net6.0-windows\refint\Task3.dll
+E:\MMH\22521444 -Lab1,2,3\Task 3\Task3 - GUI\obj\Debug\net6.0-windows\Task3.pdb
+E:\MMH\22521444 -Lab1,2,3\Task 3\Task3 - GUI\obj\Debug\net6.0-windows\Task3.genruntimeconfig.cache
+E:\MMH\22521444 -Lab1,2,3\Task 3\Task3 - GUI\obj\Debug\net6.0-windows\ref\Task3.dll

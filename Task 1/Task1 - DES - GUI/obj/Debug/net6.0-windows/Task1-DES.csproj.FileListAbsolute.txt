@@ -1,0 +1,16 @@
+E:\MMH\Task1 - DES\bin\Debug\net6.0-windows\Task1-DES.exe
+E:\MMH\Task1 - DES\bin\Debug\net6.0-windows\Task1-DES.deps.json
+E:\MMH\Task1 - DES\bin\Debug\net6.0-windows\Task1-DES.runtimeconfig.json
+E:\MMH\Task1 - DES\bin\Debug\net6.0-windows\Task1-DES.dll
+E:\MMH\Task1 - DES\bin\Debug\net6.0-windows\Task1-DES.pdb
+E:\MMH\Task1 - DES\obj\Debug\net6.0-windows\Task3.Form1.resources
+E:\MMH\Task1 - DES\obj\Debug\net6.0-windows\Task1-DES.csproj.GenerateResource.cache
+E:\MMH\Task1 - DES\obj\Debug\net6.0-windows\Task1-DES.GeneratedMSBuildEditorConfig.editorconfig
+E:\MMH\Task1 - DES\obj\Debug\net6.0-windows\Task1-DES.AssemblyInfoInputs.cache
+E:\MMH\Task1 - DES\obj\Debug\net6.0-windows\Task1-DES.AssemblyInfo.cs
+E:\MMH\Task1 - DES\obj\Debug\net6.0-windows\Task1-DES.csproj.CoreCompileInputs.cache
+E:\MMH\Task1 - DES\obj\Debug\net6.0-windows\Task1-DES.dll
+E:\MMH\Task1 - DES\obj\Debug\net6.0-windows\refint\Task1-DES.dll
+E:\MMH\Task1 - DES\obj\Debug\net6.0-windows\Task1-DES.pdb
+E:\MMH\Task1 - DES\obj\Debug\net6.0-windows\Task1-DES.genruntimeconfig.cache
+E:\MMH\Task1 - DES\obj\Debug\net6.0-windows\ref\Task1-DES.dll

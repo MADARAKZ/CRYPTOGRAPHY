@@ -1,0 +1,42 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "C/C++: g++.exe build active file",
+			"command": "C:\\msys64\\mingw64\\bin\\g++.exe",
+			"args": [
+				"-g2", 
+				"-O3", 
+				"-DNDEBUG", 
+				"${file}", 
+				"-o", 
+				"${fileDirname}/${fileBasenameNoExtension}.dll", 
+				"-D_WIN32_WINNT=0x0A00", 
+				"-lpthread",
+				"-I${workspaceFolder}/include",  // Path to header files
+				"-L${workspaceFolder}/lib",  // Path to library files
+				"-l:libcrypto.a",  // Static linking for OpenSSL's libcrypto
+				// "-l:libcrypto.a",  // Static linking for Crypto++ library
+				"-l:libssl.a",  // Static linking for OpenSSL's libssl
+				"-lcrypt32",  // Windows Crypto API
+				"-lws2_32",  // Windows Sockets API
+				"-shared",
+				"-DBUILD_DLL",
+				"-fvisibility=hidden"
+
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "compiler: C:\\msys64\\mingw64\\bin\\g++.exe"
+		}
+	]
+}

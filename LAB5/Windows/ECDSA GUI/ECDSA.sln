@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECDSA", "ECDSA.csproj", "{FAFAD317-9DF1-4E96-882F-83429482D5B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAFAD317-9DF1-4E96-882F-83429482D5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFAD317-9DF1-4E96-882F-83429482D5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFAD317-9DF1-4E96-882F-83429482D5B8}.Debug|x64.ActiveCfg = Debug|x64
+		{FAFAD317-9DF1-4E96-882F-83429482D5B8}.Debug|x64.Build.0 = Debug|x64
+		{FAFAD317-9DF1-4E96-882F-83429482D5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFAD317-9DF1-4E96-882F-83429482D5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFAD317-9DF1-4E96-882F-83429482D5B8}.Release|x64.ActiveCfg = Release|x64
+		{FAFAD317-9DF1-4E96-882F-83429482D5B8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {595A4964-77D7-4A3F-984C-05E7DDF78F02}
+	EndGlobalSection
+EndGlobal
